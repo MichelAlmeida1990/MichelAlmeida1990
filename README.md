@@ -176,20 +176,7 @@ React, JavaScript avançado, metodologias ágeis
 
 ---
 
-## 🏆 Certificações
 
-<div align="center">
-
-![Certifications](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/)
-[![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![React Developer](https://img.shields.io/badge/React-Developer%20Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Django Expert](https://img.shields.io/badge/Django-Expert%20Developer-092E20?style=for-the-badge&logo=django&logoColor=green)](https://djangoproject.com/)
-
-</div>
-
----
 
 ## 📫 Contato & Redes
 
