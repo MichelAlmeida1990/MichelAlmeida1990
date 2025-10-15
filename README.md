@@ -212,9 +212,9 @@ React, JavaScript avançado, metodologias ágeis
 
 ![Footer](https://media.giphy.com/media/26BRrSvJUaNz0xAS0/giphy.gif)
 
-### 🔗 [Portfolio Completo](https://michelpaulo.dev)
+### 🔗 [Portfolio Completo](https://michelalmeida1990.github.io/Portfolio-Profissional/))
 
-![Visitor Count](https://profile-counter.glitch.me/michelpaulo/count.svg)
+
 
 **Obrigado pela visita! 👋**
 
